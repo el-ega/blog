@@ -1,0 +1,7 @@
+.author-social .social-icon-container {
+    justify-content: center;
+}
+
+.footer-container .social-icon-container {
+    justify-content: end;
+}

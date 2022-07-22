@@ -1,0 +1,13 @@
+baseURL = 'https://blog.el-e.ga'
+languageCode = 'es-ar'
+title = 'el Ega | blog'
+enableEmoji= true
+
+theme = "novela"
+
+[social]
+twitter= "https://twitter.com/elEgaOk"
+github= "https://github.com/el-ega"
+
+[taxonomies]
+author = "authors"
