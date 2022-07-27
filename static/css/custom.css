@@ -1,3 +1,11 @@
+.article-header {
+  margin: 50px auto;
+}
+
+.post-content {
+  padding: 80px 0 35px;
+}
+
 .author-social .social-icon-container {
     justify-content: center;
 }
