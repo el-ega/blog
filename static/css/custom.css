@@ -6,6 +6,10 @@
   padding: 80px 0 35px;
 }
 
+.twitter-tweet {
+  margin: 0 auto;
+}
+
 .author-social .social-icon-container {
     justify-content: center;
 }
